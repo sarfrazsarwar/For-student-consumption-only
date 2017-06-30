@@ -1,0 +1,4 @@
+D:\MSc Advanced Computer Science\MSc Project\Code\TestApp\TestApp\bin\TestApp.dll
+D:\MSc Advanced Computer Science\MSc Project\Code\TestApp\TestApp\bin\TestApp.pdb
+D:\MSc Advanced Computer Science\MSc Project\Code\TestApp\TestApp\obj\Debug\TestApp.dll
+D:\MSc Advanced Computer Science\MSc Project\Code\TestApp\TestApp\obj\Debug\TestApp.pdb
