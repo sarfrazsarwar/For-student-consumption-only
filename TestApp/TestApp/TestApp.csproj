@@ -57,6 +57,7 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="Github.aspx" />
     <Content Include="Github2nd.aspx" />
+    <Content Include="GithubOtherRep.aspx" />
     <Content Include="LogIn.aspx" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
@@ -129,6 +130,13 @@
     </Compile>
     <Compile Include="Github2nd.aspx.designer.cs">
       <DependentUpon>Github2nd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GithubOtherRep.aspx.cs">
+      <DependentUpon>GithubOtherRep.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GithubOtherRep.aspx.designer.cs">
+      <DependentUpon>GithubOtherRep.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
